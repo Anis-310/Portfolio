@@ -54,11 +54,22 @@ h3{
 }
 
 #experience-item{
-    border-left: 10px solid;
     box-shadow: 10px 10px 10px 10px rgb(211, 211, 211);
     margin: 50px;
     border-radius: 10px;
+    border-left: 10px solid;
+    border-image: linear-gradient( tomato, orange)40;
+    border-image-slice:1;
 
+}
+
+#experience-item2{
+    box-shadow: 10px 10px 10px 10px rgb(211, 211, 211);
+    margin: 50px;
+    border-radius: 10px;
+    border-left: 10px solid;
+    border-image: linear-gradient( rgb(55, 58, 241), rgb(88, 163, 233))40;
+    border-image-slice:1;
 }
 
 
