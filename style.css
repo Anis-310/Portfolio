@@ -55,14 +55,11 @@ h3{
 #experience-item{
     border-left: 10px solid;
     box-shadow: 10px 10px 10px 10px rgb(182, 181, 181);
-    border-image: linear-gradient(tomato orange);
-    border-image-slice: 1;
     margin: 50px;
     border-radius: 10px;
 
-    
-    
 }
+
 
 .experience-area{
     background-image: url(image/exp-bg.png);
